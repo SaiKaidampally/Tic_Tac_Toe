@@ -1,0 +1,51 @@
+.ttt-bg{
+    background-color: #fb6f92;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    border-radius: 2rem;
+}
+.heading{
+    color: rgb(240, 39, 12);
+    font-weight: bold;
+    text-align: center;
+    
+}
+.msg-container{
+    color: #d90429;
+    font-weight: bold;
+}
+.box{
+    background-color: #3a86ff;
+    color: bisque;
+    text-align: center;
+    margin: 10px;
+    border-radius: 1rem;
+    height: 20vh;
+    border-width: 0px;
+    border-color: #fb6f92;
+    font-size: 7vh;
+    color: rgb(241, 18, 18);
+}
+#reset{
+    width: 10vw;
+    height: 6vh;
+    text-align: center;
+    border-width: 0px;
+    border-radius: 1rem;
+    background-color: #d90429;
+    color: aqua;
+    font-size: 1rem;
+}
+#new-btn{
+    width: 15vw;
+    height: 6vh;
+    background-color: #d90429;
+    color: aqua;
+    text-align: center;
+    border-width: 0px;
+    border-radius: 1rem;
+}
+.hide{
+    display: none;
+}
